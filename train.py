@@ -74,4 +74,4 @@ with mlflow.start_run(nested=True):
 # Save the model with help from utils.py
 utils.save_model(model=model,
                  target_dir="models",
-                 model_name="05_going_modular_script_mode_tinyvgg_model.pth")
+                 model_name="model_1.pth")
