@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/8dd0373ab5ca4f5c9022b38b800cd5e4/artifacts
+end_time: 1708520577732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dd0373ab5ca4f5c9022b38b800cd5e4
+run_name: worried-worm-502
+run_uuid: 8dd0373ab5ca4f5c9022b38b800cd5e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708520571678
+status: 3
+tags: []
+user_id: codespace

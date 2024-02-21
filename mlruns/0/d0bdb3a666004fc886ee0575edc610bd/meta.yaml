@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/d0bdb3a666004fc886ee0575edc610bd/artifacts
+end_time: 1708520577726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0bdb3a666004fc886ee0575edc610bd
+run_name: angry-steed-740
+run_uuid: d0bdb3a666004fc886ee0575edc610bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708520571692
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/0c19ac107dfa43c8a7ef9d8b5f0a57ae/artifacts
+end_time: 1708520577736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c19ac107dfa43c8a7ef9d8b5f0a57ae
+run_name: stylish-gull-100
+run_uuid: 0c19ac107dfa43c8a7ef9d8b5f0a57ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708520571661
+status: 3
+tags: []
+user_id: codespace
