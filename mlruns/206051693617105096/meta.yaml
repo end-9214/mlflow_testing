@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/206051693617105096
+creation_time: 1708745992841
+experiment_id: '206051693617105096'
+last_update_time: 1708745992841
+lifecycle_stage: active
+name: pytorch-food-detector

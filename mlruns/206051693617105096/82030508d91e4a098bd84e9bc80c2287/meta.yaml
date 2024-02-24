@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/82030508d91e4a098bd84e9bc80c2287/artifacts
+end_time: 1708747002262
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: active
+run_id: 82030508d91e4a098bd84e9bc80c2287
+run_name: luxuriant-fawn-349
+run_uuid: 82030508d91e4a098bd84e9bc80c2287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708746953710
+status: 3
+tags: []
+user_id: codespace
