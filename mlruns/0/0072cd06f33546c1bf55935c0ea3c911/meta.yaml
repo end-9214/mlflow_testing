@@ -1,8 +1,9 @@
 artifact_uri: file:///workspaces/codespaces-blank/mlruns/0/0072cd06f33546c1bf55935c0ea3c911/artifacts
+deleted_time: 1708747961420
 end_time: 1708520490103
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0072cd06f33546c1bf55935c0ea3c911
 run_name: omniscient-stoat-722
 run_uuid: 0072cd06f33546c1bf55935c0ea3c911
