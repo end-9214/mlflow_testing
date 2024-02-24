@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/c3942164534c4b8eb2902435a8f28c5c/artifacts
+end_time: 1708773071378
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: active
+run_id: c3942164534c4b8eb2902435a8f28c5c
+run_name: painted-turtle-265
+run_uuid: c3942164534c4b8eb2902435a8f28c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708773028132
+status: 3
+tags: []
+user_id: codespace

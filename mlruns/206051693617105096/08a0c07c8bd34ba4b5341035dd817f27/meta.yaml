@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/08a0c07c8bd34ba4b5341035dd817f27/artifacts
+deleted_time: 1708773085986
+end_time: 1708772864624
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: deleted
+run_id: 08a0c07c8bd34ba4b5341035dd817f27
+run_name: bustling-seal-758
+run_uuid: 08a0c07c8bd34ba4b5341035dd817f27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708772816361
+status: 4
+tags: []
+user_id: codespace

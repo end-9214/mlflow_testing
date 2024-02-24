@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/206051693617105096/fd560f883a0c4c6e8b2444730091d27b/artifacts
+deleted_time: 1708772832687
 end_time: 1708772574323
 entry_point_name: ''
 experiment_id: '206051693617105096'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fd560f883a0c4c6e8b2444730091d27b
 run_name: bustling-seal-758
 run_uuid: fd560f883a0c4c6e8b2444730091d27b

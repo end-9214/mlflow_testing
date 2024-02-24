@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/8be0a09df80b4d87a0602401f48d4883/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: active
+run_id: 8be0a09df80b4d87a0602401f48d4883
+run_name: resilient-sow-705
+run_uuid: 8be0a09df80b4d87a0602401f48d4883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708773249250
+status: 1
+tags: []
+user_id: codespace

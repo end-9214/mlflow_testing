@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/e5aba04e50c449a5a551c14f5323c403/artifacts
+end_time: 1708773155099
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: active
+run_id: e5aba04e50c449a5a551c14f5323c403
+run_name: learned-foal-430
+run_uuid: e5aba04e50c449a5a551c14f5323c403
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708773071395
+status: 3
+tags: []
+user_id: codespace
