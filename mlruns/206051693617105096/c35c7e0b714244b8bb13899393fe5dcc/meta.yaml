@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/c35c7e0b714244b8bb13899393fe5dcc/artifacts
+end_time: 1708747706384
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: active
+run_id: c35c7e0b714244b8bb13899393fe5dcc
+run_name: overjoyed-lamb-1000
+run_uuid: c35c7e0b714244b8bb13899393fe5dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708747625931
+status: 3
+tags: []
+user_id: codespace
