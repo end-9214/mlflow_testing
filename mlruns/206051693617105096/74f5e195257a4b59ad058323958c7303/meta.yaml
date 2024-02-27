@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206051693617105096/74f5e195257a4b59ad058323958c7303/artifacts
+end_time: 1709008387477
+entry_point_name: ''
+experiment_id: '206051693617105096'
+lifecycle_stage: active
+run_id: 74f5e195257a4b59ad058323958c7303
+run_name: efficient-grouse-922
+run_uuid: 74f5e195257a4b59ad058323958c7303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709008307002
+status: 3
+tags: []
+user_id: codespace
